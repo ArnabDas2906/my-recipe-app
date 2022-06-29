@@ -4,7 +4,7 @@
 3. The system should have a browser installed(Preferably Google Chrome)
 
 # Step 2 => Run the application
-1. Unzip the folder.
+1. Unzip the folder/ Download the application from "https://github.com/ArnabDas2906/my-recipe-app".
 2. Go to the root folder(In our case the folder named as "my-recipe-app")
 3. Open Command Prompt in the above location
 4. Run the script - "npm install" (This will install all the dependent libraries)
